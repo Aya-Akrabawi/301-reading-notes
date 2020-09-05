@@ -4,6 +4,8 @@
 is a simple templating language that let us generate HTML markup with plain JavaScript and it is fast, simple and support Server JS and browser 
 
 **nstall EJs:**
+
+
 ```$ npm install ejs```
 
 
