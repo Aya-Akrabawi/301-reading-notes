@@ -1,0 +1,738 @@
+{
+kind: "books#volumes",
+totalItems: 498,
+items: [
+{
+kind: "books#volume",
+id: "zYw3sYFtz9kC",
+etag: "GUt8urqNan0",
+selfLink: "https://www.googleapis.com/books/v1/volumes/zYw3sYFtz9kC",
+volumeInfo: {
+title: "The Contemporary Thesaurus of Search Terms and Synonyms",
+subtitle: "A Guide for Natural Language Computer Searching",
+authors: [
+"Sara D. Knapp"
+],
+publisher: "Greenwood Publishing Group",
+publishedDate: "2000",
+description: "Whether your search is limited to a single database or is as expansive as all of cyberspace, you won't find the intended results unless you use the words that work. Now in its second edition, Sara Knapp has updated and expanded this invaluable resource. Unlike any other thesaurus available, this popular guide offers a wealth of natural language options in a convenient, A-to-Z format. It's ideal for helping users find the appropriate word or words for computer searches in the humanities, social sciences, and business. The second edition has added more than 9,000 entries to the first edition's extensive list. Now, the Thesaurus contains almost 21,000 search entries! New or expanded areas include broader coverage of business terms and humanities-including arts literature, philosophy, religion, and music.",
+industryIdentifiers: [
+{
+type: "ISBN_10",
+identifier: "157356107X"
+},
+{
+type: "ISBN_13",
+identifier: "9781573561075"
+}
+],
+readingModes: {
+text: false,
+image: true
+},
+pageCount: 682,
+printType: "BOOK",
+categories: [
+"Computers"
+],
+averageRating: 3,
+ratingsCount: 1,
+maturityRating: "NOT_MATURE",
+allowAnonLogging: false,
+contentVersion: "1.1.1.0.preview.1",
+panelizationSummary: {
+containsEpubBubbles: false,
+containsImageBubbles: false
+},
+imageLinks: {
+smallThumbnail: "http://books.google.com/books/content?id=zYw3sYFtz9kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+thumbnail: "http://books.google.com/books/content?id=zYw3sYFtz9kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+language: "en",
+previewLink: "http://books.google.jo/books?id=zYw3sYFtz9kC&pg=PR21&dq=search+terms&hl=&cd=1&source=gbs_api",
+infoLink: "http://books.google.jo/books?id=zYw3sYFtz9kC&dq=search+terms&hl=&source=gbs_api",
+canonicalVolumeLink: "https://books.google.com/books/about/The_Contemporary_Thesaurus_of_Search_Ter.html?hl=&id=zYw3sYFtz9kC"
+},
+saleInfo: {
+country: "JO",
+saleability: "NOT_FOR_SALE",
+isEbook: false
+},
+accessInfo: {
+country: "JO",
+viewability: "PARTIAL",
+embeddable: true,
+publicDomain: false,
+textToSpeechPermission: "ALLOWED",
+epub: {
+isAvailable: false
+},
+pdf: {
+isAvailable: true,
+acsTokenLink: "http://books.google.jo/books/download/The_Contemporary_Thesaurus_of_Search_Ter-sample-pdf.acsm?id=zYw3sYFtz9kC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+},
+webReaderLink: "http://play.google.com/books/reader?id=zYw3sYFtz9kC&hl=&printsec=frontcover&source=gbs_api",
+accessViewStatus: "SAMPLE",
+quoteSharingAllowed: false
+},
+searchInfo: {
+textSnippet: "In computer <b>searching</b>, they may need to be specified. The searcher needs to be <br> aware of the context from which the <b>search</b> request is derived as well as the <br> context in which the <b>terms</b> will be searched. The broadest and most obvious <br> <b>search</b>&nbsp;..."
+}
+},
+{
+kind: "books#volume",
+id: "mFT_CgAAQBAJ",
+etag: "idYBcJOiZA4",
+selfLink: "https://www.googleapis.com/books/v1/volumes/mFT_CgAAQBAJ",
+volumeInfo: {
+title: "Search Terms: Alpha",
+authors: [
+"Travis Hill"
+],
+publisher: "Travis Hill",
+description: "College sophomore Tyler Gallagher loves computers, video games, and Thanksgiving Break. He's timed the arrival of his computer components with the holiday vacation from school to blast aliens and enemy soldiers alike on his brand new, high-end gaming computer. When the parts arrive, it soon becomes apparent that they aren't what he ordered from TechTerritory. Thinking he's the butt of a practical joke, Tyler plays along, and builds the computer with the obviously fake components. His annoyance turns to shock when the computer powers on. His shock turns to a mix of disbelief and wonder when he learns the strange "quantum" computer can pull web pages from the near future. Disbelief and wonder soon become fear and uncertainty when he discovers the future might not be so bright. "Search Terms: Alpha" is the first half of a new time travel thriller. 52,000 word novel Adult themes / language / mild sexual content",
+readingModes: {
+text: true,
+image: true
+},
+pageCount: 150,
+printType: "BOOK",
+categories: [
+"Fiction"
+],
+maturityRating: "NOT_MATURE",
+allowAnonLogging: false,
+contentVersion: "1.3.3.0.preview.3",
+panelizationSummary: {
+containsEpubBubbles: false,
+containsImageBubbles: false
+},
+imageLinks: {
+smallThumbnail: "http://books.google.com/books/content?id=mFT_CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+thumbnail: "http://books.google.com/books/content?id=mFT_CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+language: "en",
+previewLink: "http://books.google.jo/books?id=mFT_CgAAQBAJ&pg=PT1&dq=search+terms&hl=&cd=2&source=gbs_api",
+infoLink: "http://books.google.jo/books?id=mFT_CgAAQBAJ&dq=search+terms&hl=&source=gbs_api",
+canonicalVolumeLink: "https://books.google.com/books/about/Search_Terms_Alpha.html?hl=&id=mFT_CgAAQBAJ"
+},
+saleInfo: {
+country: "JO",
+saleability: "NOT_FOR_SALE",
+isEbook: false
+},
+accessInfo: {
+country: "JO",
+viewability: "PARTIAL",
+embeddable: true,
+publicDomain: false,
+textToSpeechPermission: "ALLOWED",
+epub: {
+isAvailable: true
+},
+pdf: {
+isAvailable: true
+},
+webReaderLink: "http://play.google.com/books/reader?id=mFT_CgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+accessViewStatus: "SAMPLE",
+quoteSharingAllowed: false
+},
+searchInfo: {
+textSnippet: "<b>Search Terms</b>: Alpha Chapter 1 Chapter 2 Chapter 3 Chapter 4 Chapter 5 <br> Chapter 6 Chapter 7 Chapter 8 Chapter 9 Chapter 10 Chapter 11 Chapter 12 <br> Chapter 13 Chapter 14 Epilogue Notes &amp; Thanks Shameless Self Promotion <br> SEARCH&nbsp;..."
+}
+},
+{
+kind: "books#volume",
+id: "cuRLDwAAQBAJ",
+etag: "pL7zavZSOvc",
+selfLink: "https://www.googleapis.com/books/v1/volumes/cuRLDwAAQBAJ",
+volumeInfo: {
+title: "The Legal Research and Writing Handbook",
+subtitle: "A Basic Approach for Paralegals",
+authors: [
+"Andrea B. Yelin",
+"Hope Viner Samborn"
+],
+publisher: "Wolters Kluwer Law & Business",
+publishedDate: "2018-02-13",
+description: "With clear explanations, examples, and visual aids, The Legal Research and Writing Handbook, Eighth Edition by Andrea Yelin and Hope Viner Samborn offers complete coverage of a complex subject in a student-friendly, accessible text. In this thoroughly updated new edition, the authors continue to keep pace with legal research, citation, and technology in today’s law firms. This practical text focuses on efficient research processes and techniques for both traditional and electronic sources, along with step-by-step instruction through each stage of the legal writing process, from prewriting strategies, to revising. The text is enhanced with examples and visual aids, expert writing and practice tips, hands-on exercises, ethics alerts, up-to-date web resources, and easy-to-navigate page design. Excellent exercises are provided to reinforce student learning. Key Features: Updated and expanded coverage of electronic resources reflecting how paralegals do research today Detailed discussion of how to use legal authorities in legal communications and how to synthesize them and present them to attorneys Examples, exhibits, practical tips, updated exercises, and web resources in every chapter Expanded discussion of e-mail and e-memos In-depth coverage of the IRAC method, as well as how to write legal memoranda and legal correspondence",
+industryIdentifiers: [
+{
+type: "ISBN_13",
+identifier: "9781454896388"
+},
+{
+type: "ISBN_10",
+identifier: "1454896388"
+}
+],
+readingModes: {
+text: false,
+image: true
+},
+pageCount: 640,
+printType: "BOOK",
+categories: [
+"Law"
+],
+maturityRating: "NOT_MATURE",
+allowAnonLogging: false,
+contentVersion: "preview-1.0.0",
+panelizationSummary: {
+containsEpubBubbles: false,
+containsImageBubbles: false
+},
+imageLinks: {
+smallThumbnail: "http://books.google.com/books/content?id=cuRLDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+thumbnail: "http://books.google.com/books/content?id=cuRLDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+language: "en",
+previewLink: "http://books.google.jo/books?id=cuRLDwAAQBAJ&pg=PA249&dq=search+terms&hl=&cd=3&source=gbs_api",
+infoLink: "http://books.google.jo/books?id=cuRLDwAAQBAJ&dq=search+terms&hl=&source=gbs_api",
+canonicalVolumeLink: "https://books.google.com/books/about/The_Legal_Research_and_Writing_Handbook.html?hl=&id=cuRLDwAAQBAJ"
+},
+saleInfo: {
+country: "JO",
+saleability: "NOT_FOR_SALE",
+isEbook: false
+},
+accessInfo: {
+country: "JO",
+viewability: "PARTIAL",
+embeddable: true,
+publicDomain: false,
+textToSpeechPermission: "ALLOWED",
+epub: {
+isAvailable: false
+},
+pdf: {
+isAvailable: false
+},
+webReaderLink: "http://play.google.com/books/reader?id=cuRLDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+accessViewStatus: "SAMPLE",
+quoteSharingAllowed: false
+},
+searchInfo: {
+textSnippet: "Now that the systems use &#39;&#39;Google-type&#39;&#39; <b>searching</b>, there is no need to learn the <br> details of <b>query</b> formulation for each ... However, a basic understanding of a <br> <b>terms</b> and connector type <b>search</b> will help you to construct a more precise <b>search</b><br> &nbsp;..."
+}
+},
+{
+kind: "books#volume",
+id: "Dw7TCQAAQBAJ",
+etag: "WyTXT3CAndg",
+selfLink: "https://www.googleapis.com/books/v1/volumes/Dw7TCQAAQBAJ",
+volumeInfo: {
+title: "The Wadsworth Guide to Research",
+authors: [
+"Susan K. Miller-Cochran",
+"Rochelle L. Rodrigo"
+],
+publisher: "Cengage Learning",
+publishedDate: "2013-01-01",
+description: "Develop the research skills you need for success in academic, career, and everyday situations with THE WADSWORTH GUIDE TO RESEARCH. Recognizing that technology is a part of your daily life, the authors will show you how to apply the research skills you use every day (buying a car, choosing a movie, etc.) to academic and professional settings. Annotated student samples, research scenarios, and Techno Tips show you the how and why of researching and the key research technologies important to success. Available with InfoTrac Student Collections http://gocengage.com/infotrac. Important Notice: Media content referenced within the product description or the product text may not be available in the ebook version.",
+industryIdentifiers: [
+{
+type: "ISBN_13",
+identifier: "9780495912873"
+},
+{
+type: "ISBN_10",
+identifier: "0495912875"
+}
+],
+readingModes: {
+text: false,
+image: true
+},
+pageCount: 432,
+printType: "BOOK",
+categories: [
+"Education"
+],
+maturityRating: "NOT_MATURE",
+allowAnonLogging: false,
+contentVersion: "0.3.1.0.preview.1",
+panelizationSummary: {
+containsEpubBubbles: false,
+containsImageBubbles: false
+},
+imageLinks: {
+smallThumbnail: "http://books.google.com/books/content?id=Dw7TCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+thumbnail: "http://books.google.com/books/content?id=Dw7TCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+language: "en",
+previewLink: "http://books.google.jo/books?id=Dw7TCQAAQBAJ&pg=PA72&dq=search+terms&hl=&cd=4&source=gbs_api",
+infoLink: "http://books.google.jo/books?id=Dw7TCQAAQBAJ&dq=search+terms&hl=&source=gbs_api",
+canonicalVolumeLink: "https://books.google.com/books/about/The_Wadsworth_Guide_to_Research.html?hl=&id=Dw7TCQAAQBAJ"
+},
+saleInfo: {
+country: "JO",
+saleability: "NOT_FOR_SALE",
+isEbook: false
+},
+accessInfo: {
+country: "JO",
+viewability: "PARTIAL",
+embeddable: true,
+publicDomain: false,
+textToSpeechPermission: "ALLOWED",
+epub: {
+isAvailable: false
+},
+pdf: {
+isAvailable: false
+},
+webReaderLink: "http://play.google.com/books/reader?id=Dw7TCQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+accessViewStatus: "SAMPLE",
+quoteSharingAllowed: false
+},
+searchInfo: {
+textSnippet: "A good thing to prepare before you talk to the librarian is a list of potential <b>search</b> <br> <b>terms</b>. Specific. Search. Terms. When you begin to search for secondary <br> resources, you need a list of specific terms that will help you locate those <br> resources&nbsp;..."
+}
+},
+{
+kind: "books#volume",
+id: "LD9tCQAAQBAJ",
+etag: "j9lpIy2cBSs",
+selfLink: "https://www.googleapis.com/books/v1/volumes/LD9tCQAAQBAJ",
+volumeInfo: {
+title: "Advances in Information Retrieval",
+subtitle: "24th BCS-IRSG European Colloquium on IR Research Glasgow, UK, March 25-27, 2002 Proceedings",
+authors: [
+"Fabio Crestani",
+"Mark Girolami",
+"C.J.van Rijsbergen"
+],
+publisher: "Springer",
+publishedDate: "2003-07-31",
+description: "The annual colloquium on information retrieval research provides an opportunity for both new and established researchers to present papers describing work in progress or ?nal results. This colloquium was established by the BCS IRSG(B- tish Computer Society Information Retrieval Specialist Group), and named the Annual Colloquium on Information Retrieval Research. Recently, the location of the colloquium has alternated between the United Kingdom and continental Europe. To re?ect the growing European orientation of the event, the colloquium was renamed “European Annual Colloquium on Information Retrieval Research” from 2001. Since the inception of the colloquium in 1979 the event has been hosted in the city of Glasgow on four separate occasions. However, this was the ?rst time that the organization of the colloquium had been jointly undertaken by three separate computer and information science departments; an indication of the collaborative nature and diversity of IR research within the universities of the West of Scotland. The organizers of ECIR 2002 saw a sharp increase in the number of go- quality submissions in answer to the call for papers over previous years and as such 52 submitted papers were each allocated 3 members of the program committee for double blind review of the manuscripts. A total of 23 papers were eventually selected for oral presentation at the colloquium in Glasgow which gave an acceptance rate of less than 45% and ensured a very high standard of the papers presented.",
+industryIdentifiers: [
+{
+type: "ISBN_13",
+identifier: "9783540458869"
+},
+{
+type: "ISBN_10",
+identifier: "3540458867"
+}
+],
+readingModes: {
+text: false,
+image: true
+},
+pageCount: 366,
+printType: "BOOK",
+categories: [
+"Computers"
+],
+maturityRating: "NOT_MATURE",
+allowAnonLogging: false,
+contentVersion: "preview-1.0.0",
+panelizationSummary: {
+containsEpubBubbles: false,
+containsImageBubbles: false
+},
+imageLinks: {
+smallThumbnail: "http://books.google.com/books/content?id=LD9tCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+thumbnail: "http://books.google.com/books/content?id=LD9tCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+language: "en",
+previewLink: "http://books.google.jo/books?id=LD9tCQAAQBAJ&pg=PA112&dq=search+terms&hl=&cd=5&source=gbs_api",
+infoLink: "https://play.google.com/store/books/details?id=LD9tCQAAQBAJ&source=gbs_api",
+canonicalVolumeLink: "https://play.google.com/store/books/details?id=LD9tCQAAQBAJ"
+},
+saleInfo: {
+country: "JO",
+saleability: "FOR_SALE",
+isEbook: true,
+listPrice: {
+amount: 89.96,
+currencyCode: "USD"
+},
+retailPrice: {
+amount: 89.96,
+currencyCode: "USD"
+},
+buyLink: "https://play.google.com/store/books/details?id=LD9tCQAAQBAJ&rdid=book-LD9tCQAAQBAJ&rdot=1&source=gbs_api",
+offers: [
+{
+finskyOfferType: 1,
+listPrice: {
+amountInMicros: 89960000,
+currencyCode: "USD"
+},
+retailPrice: {
+amountInMicros: 89960000,
+currencyCode: "USD"
+}
+}
+]
+},
+accessInfo: {
+country: "JO",
+viewability: "PARTIAL",
+embeddable: true,
+publicDomain: false,
+textToSpeechPermission: "ALLOWED_FOR_ACCESSIBILITY",
+epub: {
+isAvailable: false
+},
+pdf: {
+isAvailable: true,
+acsTokenLink: "http://books.google.jo/books/download/Advances_in_Information_Retrieval-sample-pdf.acsm?id=LD9tCQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+},
+webReaderLink: "http://play.google.com/books/reader?id=LD9tCQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+accessViewStatus: "SAMPLE",
+quoteSharingAllowed: false
+},
+searchInfo: {
+textSnippet: "Term extraction based on a proportionally high quantity of non-relevant <br> documents generates inappropriate <b>search terms</b> impairing search ... The results <br> also show that users are in favor of controlling the query reformulation process [<br> 17], [28]."
+}
+},
+{
+kind: "books#volume",
+id: "4eFQAAAAMAAJ",
+etag: "ia+3E8of1YU",
+selfLink: "https://www.googleapis.com/books/v1/volumes/4eFQAAAAMAAJ",
+volumeInfo: {
+title: "Flexible Query Answering Systems",
+publishedDate: "2000",
+industryIdentifiers: [
+{
+type: "OTHER",
+identifier: "UOM:39015047798510"
+}
+],
+readingModes: {
+text: false,
+image: false
+},
+printType: "BOOK",
+categories: [
+"Database searching"
+],
+maturityRating: "NOT_MATURE",
+allowAnonLogging: false,
+contentVersion: "0.1.2.0.preview.0",
+panelizationSummary: {
+containsEpubBubbles: false,
+containsImageBubbles: false
+},
+imageLinks: {
+smallThumbnail: "http://books.google.com/books/content?id=4eFQAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+thumbnail: "http://books.google.com/books/content?id=4eFQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+},
+language: "en",
+previewLink: "http://books.google.jo/books?id=4eFQAAAAMAAJ&q=search+terms&dq=search+terms&hl=&cd=6&source=gbs_api",
+infoLink: "http://books.google.jo/books?id=4eFQAAAAMAAJ&dq=search+terms&hl=&source=gbs_api",
+canonicalVolumeLink: "https://books.google.com/books/about/Flexible_Query_Answering_Systems.html?hl=&id=4eFQAAAAMAAJ"
+},
+saleInfo: {
+country: "JO",
+saleability: "NOT_FOR_SALE",
+isEbook: false
+},
+accessInfo: {
+country: "JO",
+viewability: "NO_PAGES",
+embeddable: false,
+publicDomain: false,
+textToSpeechPermission: "ALLOWED",
+epub: {
+isAvailable: false
+},
+pdf: {
+isAvailable: false
+},
+webReaderLink: "http://play.google.com/books/reader?id=4eFQAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+accessViewStatus: "NONE",
+quoteSharingAllowed: false
+},
+searchInfo: {
+textSnippet: "combine the <b>query terms</b> . The former aspect has been tackled by allowing the <br> association with each <b>query term</b> ( <b>search term</b> ) of the term importance ( 1 , 2 ) . <br> The latter aspect aims at defining aggregation operators between the AND&nbsp;..."
+}
+},
+{
+kind: "books#volume",
+id: "SWgetAEACAAJ",
+etag: "goW0NjcIvk0",
+selfLink: "https://www.googleapis.com/books/v1/volumes/SWgetAEACAAJ",
+volumeInfo: {
+title: "User Search Terms Needed",
+authors: [
+"Danielle Gregori"
+],
+publisher: "Createspace Independent Publishing Platform",
+publishedDate: "2018-02-02",
+description: "Turning 30 on a Thursday is hard and sometimes the only way to process the end of a decade is to make a book celebrating it. USER SEARCH TERMS NEEDED is a collection of autobiographical short stories written throughout the author's 20s, detailing moments of self-discovery, confusion and luck.",
+industryIdentifiers: [
+{
+type: "ISBN_10",
+identifier: "1983447250"
+},
+{
+type: "ISBN_13",
+identifier: "9781983447259"
+}
+],
+readingModes: {
+text: false,
+image: false
+},
+pageCount: 70,
+printType: "BOOK",
+maturityRating: "NOT_MATURE",
+allowAnonLogging: false,
+contentVersion: "preview-1.0.0",
+panelizationSummary: {
+containsEpubBubbles: false,
+containsImageBubbles: false
+},
+imageLinks: {
+smallThumbnail: "http://books.google.com/books/content?id=SWgetAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+thumbnail: "http://books.google.com/books/content?id=SWgetAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+},
+language: "en",
+previewLink: "http://books.google.jo/books?id=SWgetAEACAAJ&dq=search+terms&hl=&cd=7&source=gbs_api",
+infoLink: "http://books.google.jo/books?id=SWgetAEACAAJ&dq=search+terms&hl=&source=gbs_api",
+canonicalVolumeLink: "https://books.google.com/books/about/User_Search_Terms_Needed.html?hl=&id=SWgetAEACAAJ"
+},
+saleInfo: {
+country: "JO",
+saleability: "NOT_FOR_SALE",
+isEbook: false
+},
+accessInfo: {
+country: "JO",
+viewability: "NO_PAGES",
+embeddable: false,
+publicDomain: false,
+textToSpeechPermission: "ALLOWED",
+epub: {
+isAvailable: false
+},
+pdf: {
+isAvailable: false
+},
+webReaderLink: "http://play.google.com/books/reader?id=SWgetAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+accessViewStatus: "NONE",
+quoteSharingAllowed: false
+},
+searchInfo: {
+textSnippet: "USER SEARCH TERMS NEEDED is a collection of autobiographical short stories written throughout the author&#39;s 20s, detailing moments of self-discovery, confusion and luck."
+}
+},
+{
+kind: "books#volume",
+id: "SRadJIuhVjAC",
+etag: "AQ1gRHJOxcg",
+selfLink: "https://www.googleapis.com/books/v1/volumes/SRadJIuhVjAC",
+volumeInfo: {
+title: "Google Power",
+authors: [
+"Chris Sherman"
+],
+publisher: "McGraw Hill Professional",
+publishedDate: "2005-05-27",
+description: "Learn advanced techniques for maximizing the Google search engine and extract the best content from Google without having to learn complicated code. Go under the hood and learn a wide range of advanced web search techniques through practical examples. This is an ideal resource for students, librarians, journalists, researchers, businesspeople, lawyers, investigators, and anyone interested in conducting an in-depth search.",
+industryIdentifiers: [
+{
+type: "ISBN_10",
+identifier: "0072257873"
+},
+{
+type: "ISBN_13",
+identifier: "9780072257878"
+}
+],
+readingModes: {
+text: false,
+image: false
+},
+pageCount: 456,
+printType: "BOOK",
+categories: [
+"Computers"
+],
+averageRating: 4,
+ratingsCount: 10,
+maturityRating: "NOT_MATURE",
+allowAnonLogging: false,
+contentVersion: "0.0.1.0.preview.0",
+panelizationSummary: {
+containsEpubBubbles: false,
+containsImageBubbles: false
+},
+imageLinks: {
+smallThumbnail: "http://books.google.com/books/content?id=SRadJIuhVjAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+thumbnail: "http://books.google.com/books/content?id=SRadJIuhVjAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+},
+language: "en",
+previewLink: "http://books.google.jo/books?id=SRadJIuhVjAC&q=search+terms&dq=search+terms&hl=&cd=8&source=gbs_api",
+infoLink: "http://books.google.jo/books?id=SRadJIuhVjAC&dq=search+terms&hl=&source=gbs_api",
+canonicalVolumeLink: "https://books.google.com/books/about/Google_Power.html?hl=&id=SRadJIuhVjAC"
+},
+saleInfo: {
+country: "JO",
+saleability: "NOT_FOR_SALE",
+isEbook: false
+},
+accessInfo: {
+country: "JO",
+viewability: "NO_PAGES",
+embeddable: false,
+publicDomain: false,
+textToSpeechPermission: "ALLOWED_FOR_ACCESSIBILITY",
+epub: {
+isAvailable: false
+},
+pdf: {
+isAvailable: true
+},
+webReaderLink: "http://play.google.com/books/reader?id=SRadJIuhVjAC&hl=&printsec=frontcover&source=gbs_api",
+accessViewStatus: "NONE",
+quoteSharingAllowed: false
+},
+searchInfo: {
+textSnippet: "<b>Search</b>. <b>Terms</b>. Google says that most <b>searches</b> consist of just two or three <b>words</b>. <br> Google does the best it can with these cryptic <b>queries</b>, but adding more <b>words</b> to <br> your <b>query</b> will usually provide better results. Think of how you interact with a&nbsp;..."
+}
+},
+{
+kind: "books#volume",
+id: "xH88AQAAIAAJ",
+etag: "K0v85Ge2A8A",
+selfLink: "https://www.googleapis.com/books/v1/volumes/xH88AQAAIAAJ",
+volumeInfo: {
+title: "Real Estate Finance Law",
+authors: [
+"Grant S. Nelson",
+"Dale A. Whitman"
+],
+publisher: "West Group",
+publishedDate: "1985",
+industryIdentifiers: [
+{
+type: "OTHER",
+identifier: "STANFORD:36105043873780"
+}
+],
+readingModes: {
+text: false,
+image: false
+},
+pageCount: 1052,
+printType: "BOOK",
+categories: [
+"Bankruptcy"
+],
+maturityRating: "NOT_MATURE",
+allowAnonLogging: false,
+contentVersion: "0.3.2.0.preview.0",
+panelizationSummary: {
+containsEpubBubbles: false,
+containsImageBubbles: false
+},
+imageLinks: {
+smallThumbnail: "http://books.google.com/books/content?id=xH88AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+thumbnail: "http://books.google.com/books/content?id=xH88AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+},
+language: "en",
+previewLink: "http://books.google.jo/books?id=xH88AQAAIAAJ&q=search+terms&dq=search+terms&hl=&cd=9&source=gbs_api",
+infoLink: "http://books.google.jo/books?id=xH88AQAAIAAJ&dq=search+terms&hl=&source=gbs_api",
+canonicalVolumeLink: "https://books.google.com/books/about/Real_Estate_Finance_Law.html?hl=&id=xH88AQAAIAAJ"
+},
+saleInfo: {
+country: "JO",
+saleability: "NOT_FOR_SALE",
+isEbook: false
+},
+accessInfo: {
+country: "JO",
+viewability: "NO_PAGES",
+embeddable: false,
+publicDomain: false,
+textToSpeechPermission: "ALLOWED",
+epub: {
+isAvailable: false
+},
+pdf: {
+isAvailable: false
+},
+webReaderLink: "http://play.google.com/books/reader?id=xH88AQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+accessViewStatus: "NONE",
+quoteSharingAllowed: false
+},
+searchInfo: {
+textSnippet: "Selection of Terms After determining the legal issue that is to be researched, the <br> first step in query formulation is to select the <b>key terms</b> from the issue that will be <br> used as <b>search terms</b> in the <b>query</b>. <b>Words</b>, numbers, and various other symbols&nbsp;..."
+}
+},
+{
+kind: "books#volume",
+id: "1FAzwAVa9zsC",
+etag: "/AL7Sx1U32w",
+selfLink: "https://www.googleapis.com/books/v1/volumes/1FAzwAVa9zsC",
+volumeInfo: {
+title: "Comparative Evaluation of the Retrieval Effectiveness of Descriptor and Free-text Search Systems Using CIRCOL (Central Information Reference and Control-on-Line)",
+authors: [
+"Donald W. King"
+],
+publishedDate: "1972",
+description: "The study compares the retrieval effectiveness of two alternative input and search systems in terms of such measures as recall, fallout, precision, and total retrieval. One system operates using manually indexed document files searched by controlled vocabulary while the other employs full- text input using natural language searching. Both systems are applied to a common data base and hardware. Operational information needs were used in the form of request statements from actual users. From these statements of need, search queries were formulated for both systems and recall estimates calculated using a recall base that was pre-specified by the request origninator. The queries were processed and total retrieval, fallout and precision ratios were calculated for both systems. The results indicate that the two systems perform at approximately the same level of effectiveness, although estimated average total retrieval was found to be slightly greater for free-text searching than for descriptor searching at all levels of recall.",
+industryIdentifiers: [
+{
+type: "OTHER",
+identifier: "UIUC:30112059747847"
+}
+],
+readingModes: {
+text: false,
+image: false
+},
+pageCount: 119,
+printType: "BOOK",
+categories: [
+"CIRCOL (Information retrieval system)"
+],
+maturityRating: "NOT_MATURE",
+allowAnonLogging: false,
+contentVersion: "1.0.0.0.preview.0",
+panelizationSummary: {
+containsEpubBubbles: false,
+containsImageBubbles: false
+},
+imageLinks: {
+smallThumbnail: "http://books.google.com/books/content?id=1FAzwAVa9zsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+thumbnail: "http://books.google.com/books/content?id=1FAzwAVa9zsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+},
+language: "en",
+previewLink: "http://books.google.jo/books?id=1FAzwAVa9zsC&q=search+terms&dq=search+terms&hl=&cd=10&source=gbs_api",
+infoLink: "http://books.google.jo/books?id=1FAzwAVa9zsC&dq=search+terms&hl=&source=gbs_api",
+canonicalVolumeLink: "https://books.google.com/books/about/Comparative_Evaluation_of_the_Retrieval.html?hl=&id=1FAzwAVa9zsC"
+},
+saleInfo: {
+country: "JO",
+saleability: "NOT_FOR_SALE",
+isEbook: false
+},
+accessInfo: {
+country: "JO",
+viewability: "NO_PAGES",
+embeddable: false,
+publicDomain: false,
+textToSpeechPermission: "ALLOWED",
+epub: {
+isAvailable: false
+},
+pdf: {
+isAvailable: false
+},
+webReaderLink: "http://play.google.com/books/reader?id=1FAzwAVa9zsC&hl=&printsec=frontcover&source=gbs_api",
+accessViewStatus: "NONE",
+quoteSharingAllowed: false
+},
+searchInfo: {
+textSnippet: "Varying maximum query length: Queries could encounter &quot;maximum number of <br> keyword statements exceeded&quot; statements when number of lines was as low as <br> 12. For other <b>searches</b>, <b>queries</b> as long as 23 lines would process with no error&nbsp;..."
+}
+}
+]
+}
